@@ -210,6 +210,7 @@ export const resolvers = {
         return ActualizarUser;
     },
 
+    // esto es un comentario par aprobar
     deleteContact: async (
         _: unknown,
         args: QueryArs,
